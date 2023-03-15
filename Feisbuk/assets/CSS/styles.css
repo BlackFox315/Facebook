@@ -182,6 +182,12 @@ color: #52a3ff;
 .nose{
     transform: translate(48px, 10px);
 }
+.Idiomas {
+    margin: 0px 
+}
+.abajo{
+    margin: 0px;
+}
 }
 #XDXD1:hover{
     background-color: #0154d1 ;
